@@ -1,0 +1,1646 @@
+[
+    {
+        "prompt": "Sarcasm: ",
+        "completion": "Oh, you love getting up early? That's great! I always thought the best part of the day was staring into the abyss of my coffee cup at 6 a.m."
+    },
+    {
+        "prompt": "Sarcasm: ",
+        "completion": "You\u2019re really into meal prepping now? That\u2019s amazing! I, too, love the thrill of eating the same bland chicken and broccoli five days in a row. Keeps life exciting!"
+    },
+    {
+        "prompt": "Sarcasm: ",
+        "completion": "Wow, you read a whole book in one sitting? Impressive. I prefer to read half a chapter before I start scrolling through my phone like it's the Holy Grail of procrastination."
+    },
+    {
+        "prompt": "Sarcasm: ",
+        "completion": "Oh, you gave up sugar? That\u2019s awesome! I\u2019ve always wanted to experience life in its raw, unflavored form. Must be thrilling."
+    },
+    {
+        "prompt": "Sarcasm: ",
+        "completion": "You organize your closet by color? Incredible! I find that I get the same result by shoving everything into a pile and hoping for the best."
+    },
+    {
+        "prompt": "Sarcasm: ",
+        "completion": "Wow, you journal every day? That\u2019s so inspiring! I mean, why talk about your feelings when you can just write them down and shove them into a drawer like the rest of us?"
+    },
+    {
+        "prompt": "Sarcasm: ",
+        "completion": "You took a social media break? Wow, you\u2019re so strong! I\u2019ve always wanted to not spend hours staring at strangers' vacation photos while sitting on my couch in pajamas."
+    },
+    {
+        "prompt": "Sarcasm: ",
+        "completion": "Oh, you run marathons? Good for you! I love to experience exhaustion and self-doubt after about 20 minutes on the couch."
+    },
+    {
+        "prompt": "Sarcasm: ",
+        "completion": "You meditate every morning? That\u2019s impressive. I tried once, but my brain treated it like a suggestion box at a fast food joint\u2014filled with complaints and bad ideas."
+    },
+    {
+        "prompt": "Sarcasm: ",
+        "completion": "Oh, you only drink green smoothies now? Fantastic! I hear there\u2019s nothing quite like the taste of blended kale to get your day off to a bitter start."
+    },
+    {
+        "prompt": "Satire: ",
+        "completion": "Trump said he\u2019s going to be 'great for women and their reproductive rights.' Well, that\u2019s comforting\u2014like hiring a fox to guard the henhouse, but don\u2019t worry, he\u2019s promised only to take a few eggs."
+    },
+    {
+        "prompt": "Satire: ",
+        "completion": "Kamala Harris gave a speech about lowering grocery prices, and some lawmakers privately told industry officials, 'Don\u2019t worry, this will never pass.' Ah, democracy\u2014where bold ideas die quietly in the back rooms of Congress."
+    },
+    {
+        "prompt": "Satire: ",
+        "completion": "Biden\u2019s son Hunter was convicted of lying about his drug use when purchasing a gun. Finally, something both Republicans and Democrats can agree on If you\u2019re going to break the law, at least be creative about it."
+    },
+    {
+        "prompt": "Satire: ",
+        "completion": "Trump\u2019s rebranding himself as the 'old' candidate, and now suddenly everyone\u2019s concerned about his age. Because apparently, 2024 is the year we realize our presidential candidates have the combined age of ancient Rome."
+    },
+    {
+        "prompt": "Satire: ",
+        "completion": "Biden\u2019s campaign is betting on federal investments in infrastructure, clean energy, and chip manufacturing to create long-term jobs. So, it\u2019s like planting a tree and hoping it grows before your entire lawn catches on fire."
+    },
+    {
+        "prompt": "Satire: ",
+        "completion": "The GOP is fighting over how best to handle immigration, with Trump promising the largest deportation effort in history. Next up: deporting anyone who asks where their Amazon package is coming from."
+    },
+    {
+        "prompt": "Satire: ",
+        "completion": "Trump promised he could end the Russia-Ukraine war in 24 hours if re-elected. Of course, that\u2019s after he finishes his other 24-hour projects, like fixing inflation, cleaning the ocean, and building that wall."
+    },
+    {
+        "prompt": "Satire: ",
+        "completion": "The Supreme Court ruled that presidents can\u2019t be prosecuted for 'official acts.' So, you can do whatever you want as long as you\u2019re sitting behind a big desk and call it 'presidential business.' Perfect, nothing could go wrong."
+    },
+    {
+        "prompt": "Satire: ",
+        "completion": "RFK Jr. just endorsed Trump because, when one conspiracy theorist loses steam, you just join forces with another one. It\u2019s like Voltron for misinformation."
+    },
+    {
+        "prompt": "Satire: ",
+        "completion": "NASA\u2019s astronauts were stuck in space until February because of issues with Boeing\u2019s capsule. But hey, what\u2019s a few extra months in orbit when you can\u2019t get an overbooked flight home anyway?"
+    },
+    {
+        "prompt": "Irony: ",
+        "completion": "I went to a meditation retreat to relax, but after three days of forced silence, I left more stressed than when I came in."
+    },
+    {
+        "prompt": "Irony: ",
+        "completion": "My friend started a diet to lose weight. Now he\u2019s more obsessed with food than ever\u2014he talks about cake like it\u2019s an old lover he can\u2019t get over."
+    },
+    {
+        "prompt": "Irony: ",
+        "completion": "I bought a new smartwatch to motivate me to exercise. It\u2019s been two weeks, and it only tracks my excuses."
+    },
+    {
+        "prompt": "Irony: ",
+        "completion": "My cousin went to therapy to work on his anger issues. Now, he just gets mad about how expensive therapy is."
+    },
+    {
+        "prompt": "Irony: ",
+        "completion": "I told my cat not to sit on the keyboard, so naturally, it\u2019s now the only place she\u2019ll sit. Guess I should\u2019ve told her to stay off the couch instead."
+    },
+    {
+        "prompt": "Irony: ",
+        "completion": "I ordered a book on time management, but it took two weeks to arrive because I kept putting off ordering it."
+    },
+    {
+        "prompt": "Irony: ",
+        "completion": "I signed up for a \u2018declutter your life\u2019 seminar. Now I just have a new pile of pamphlets and stress about being organized."
+    },
+    {
+        "prompt": "Irony: ",
+        "completion": "I bought a fancy water bottle to help me stay hydrated, but I keep forgetting to fill it. So now it\u2019s just a $30 paperweight."
+    },
+    {
+        "prompt": "Irony: ",
+        "completion": "My brother went on a silent retreat to find inner peace, but when he came back, all he could talk about was how much he hates being quiet."
+    },
+    {
+        "prompt": "Irony: ",
+        "completion": "I got a library card to save money on books, but now I\u2019m spending more on late fees than I ever did on new books."
+    },
+    {
+        "prompt": "Puns: ",
+        "completion": "I used to be a baker, but I couldn\u2019t make enough dough."
+    },
+    {
+        "prompt": "Puns: ",
+        "completion": "I\u2019m reading a book on anti-gravity\u2014it\u2019s impossible to put down."
+    },
+    {
+        "prompt": "Puns: ",
+        "completion": "I was going to tell you a joke about an elevator, but it\u2019s an uplifting experience."
+    },
+    {
+        "prompt": "Puns: ",
+        "completion": "I went to a seafood disco last night and pulled a mussel."
+    },
+    {
+        "prompt": "Puns: ",
+        "completion": "The mathematician couldn\u2019t stop making puns because he was in his prime."
+    },
+    {
+        "prompt": "Puns: ",
+        "completion": "I wanted to be a doctor, but I didn\u2019t have the patients."
+    },
+    {
+        "prompt": "Puns: ",
+        "completion": "I used to be afraid of hurdles, but I got over it."
+    },
+    {
+        "prompt": "Puns: ",
+        "completion": "The kleptomaniac couldn\u2019t help himself\u2014he just took everything for granite."
+    },
+    {
+        "prompt": "Puns: ",
+        "completion": "I was going to make a belt out of watches, but it was a waist of time."
+    },
+    {
+        "prompt": "Puns: ",
+        "completion": "I tried to catch some fog, but I mist."
+    },
+    {
+        "prompt": "Double Entendre: ",
+        "completion": "I used to be a baker, but I couldn\u2019t make enough dough. "
+    },
+    {
+        "prompt": "Double Entendre: ",
+        "completion": "I told my carpenter friend he nailed it. He said, 'I always do.' "
+    },
+    {
+        "prompt": "Double Entendre: ",
+        "completion": "The new chef at the restaurant is great, but he really knows how to beat an egg. "
+    },
+    {
+        "prompt": "Double Entendre: ",
+        "completion": "I was wondering why the baseball was getting bigger, and then it hit me. "
+    },
+    {
+        "prompt": "Double Entendre: ",
+        "completion": "I told my friend he should try to pick up golfing. He said, 'I\u2019m more interested in picking up birdies.' "
+    },
+    {
+        "prompt": "Double Entendre: ",
+        "completion": "I\u2019ve been reading a book on anti-gravity. It\u2019s impossible to put down. "
+    },
+    {
+        "prompt": "Double Entendre: ",
+        "completion": "The electrician offered to give me a shockingly good deal. "
+    },
+    {
+        "prompt": "Double Entendre: ",
+        "completion": "She said her relationship was getting stale, so I suggested a little role play. She said, 'As what, a loaf of bread?' "
+    },
+    {
+        "prompt": "Double Entendre: ",
+        "completion": "The new gym instructor told me to go hard or go home. I told him I was already hard from the workout. "
+    },
+    {
+        "prompt": "Double Entendre: ",
+        "completion": "The gardener asked if I liked his trimming. I said, 'It\u2019s a cut above the rest\\!'   "
+    },
+    {
+        "prompt": "Observational Humor: ",
+        "completion": "Isn\u2019t it funny how we all have that one chair in our house that\u2019s not for sitting? It\u2019s for clothes\u2014clean, dirty, doesn\u2019t matter, it\u2019s just where clothes go to think about their future."
+    },
+    {
+        "prompt": "Observational Humor: ",
+        "completion": "I love how we all have that one junk drawer in the kitchen. You open it, and it\u2019s just random batteries, expired coupons, and a single screw that belongs to nothing\u2014but somehow you\u2019re convinced it\u2019s important."
+    },
+    {
+        "prompt": "Observational Humor: ",
+        "completion": "I don\u2019t get why people ask if you\u2019re ready when they pick you up. Like, if I were ready, I\u2019d be outside by now. Asking just adds five more minutes to the process."
+    },
+    {
+        "prompt": "Observational Humor: ",
+        "completion": "Have you noticed that going to the grocery store for 'just a few things' is a lie we tell ourselves? I always end up with a cart full of snacks I never intended to buy, and somehow I forget the one thing I actually needed."
+    },
+    {
+        "prompt": "Observational Humor: ",
+        "completion": "Why do we all keep old phone chargers that don\u2019t fit any of our devices? It\u2019s like we\u2019re preparing for the day we time travel back to 2010 and need to charge a Blackberry."
+    },
+    {
+        "prompt": "Observational Humor: ",
+        "completion": "Isn\u2019t it weird that we apologize when someone else bumps into us? Like, sorry for existing in this space where I\u2019ve been standing the whole time."
+    },
+    {
+        "prompt": "Observational Humor: ",
+        "completion": "Have you ever tried to keep up with new slang? It\u2019s like trying to learn a whole new language just to understand what the kids are saying on TikTok, but by the time you figure it out, they\u2019ve moved on."
+    },
+    {
+        "prompt": "Observational Humor: ",
+        "completion": "Why is it that when the waiter asks if everything is okay, we always say \u2018Yes,\u2019 even if we\u2019ve just been served a disaster on a plate? It\u2019s like we\u2019d rather suffer in silence than risk confrontation over soggy fries."
+    },
+    {
+        "prompt": "Observational Humor: ",
+        "completion": "Isn\u2019t it funny how we all have those reusable grocery bags but always forget to bring them? So now we just have a collection of them, sitting there, waiting for the day we finally remember to take them with us."
+    },
+    {
+        "prompt": "Observational Humor: ",
+        "completion": "Why do we all get embarrassed when our stomach growls in a quiet room? Like, sorry everyone, I\u2019m just a human who hasn\u2019t eaten in three hours\u2014didn\u2019t mean to interrupt your silence with my digestive needs."
+    },
+    {
+        "prompt": "Dark Humor (Black Comedy): ",
+        "completion": "I told my therapist I was having trouble sleeping. She suggested counting sheep, but now I\u2019m just lying awake wondering where they go when I stop counting."
+    },
+    {
+        "prompt": "Dark Humor (Black Comedy): ",
+        "completion": "I got a new electric toothbrush. It\u2019s so powerful, I\u2019m unsure if I\u2019m cleaning my teeth or polishing them for my casket."
+    },
+    {
+        "prompt": "Dark Humor (Black Comedy): ",
+        "completion": "I wanted to join a gym, but I realized lifting my existential dread every morning is probably enough of a workout."
+    },
+    {
+        "prompt": "Dark Humor (Black Comedy): ",
+        "completion": "I got a life insurance policy the other day. Nothing like knowing someone will make money off me finally getting some rest."
+    },
+    {
+        "prompt": "Dark Humor (Black Comedy): ",
+        "completion": "My friend asked if I wanted to go skydiving. I said, \u2018Why? I\u2019m already free-falling through life.\u2019"
+    },
+    {
+        "prompt": "Dark Humor (Black Comedy): ",
+        "completion": "I ordered a salad because I thought it would make me feel healthier. Turns out, all it did was make me feel like I\u2019m preparing for death by boredom."
+    },
+    {
+        "prompt": "Dark Humor (Black Comedy): ",
+        "completion": "People say you only live once, but with the way I sleep, I\u2019m already working on my second life."
+    },
+    {
+        "prompt": "Dark Humor (Black Comedy): ",
+        "completion": "I signed up for a cooking class, but I\u2019m not sure it\u2019ll help. Every time I try to cook, it looks less like a meal and more like an autopsy report waiting to happen."
+    },
+    {
+        "prompt": "Dark Humor (Black Comedy): ",
+        "completion": "They say laughter is the best medicine, which is probably why my doctor keeps telling me I\u2019m incurable."
+    },
+    {
+        "prompt": "Dark Humor (Black Comedy): ",
+        "completion": "I was told to follow my dreams, but at this point, all I\u2019m following is a slow descent into chaos and Netflix binges."
+    },
+    {
+        "prompt": "Self-Deprecating Humor: ",
+        "completion": "I\u2019m on a new fitness plan. It\u2019s called \u2018walking to the fridge and back.\u2019 I\u2019m already a pro."
+    },
+    {
+        "prompt": "Self-Deprecating Humor: ",
+        "completion": "I tried meal prepping, but I ended up just prepping a week\u2019s worth of regret."
+    },
+    {
+        "prompt": "Self-Deprecating Humor: ",
+        "completion": "I bought a planner to get more organized. Now I just use it to keep track of all the days I didn\u2019t do anything productive."
+    },
+    {
+        "prompt": "Self-Deprecating Humor: ",
+        "completion": "My bank account and I have a great relationship. It keeps leaving, and I keep chasing after it like it\u2019s a bad ex."
+    },
+    {
+        "prompt": "Self-Deprecating Humor: ",
+        "completion": "I went to a yoga class to relax, but by the time I figured out how to fold myself in half, I needed a chiropractor."
+    },
+    {
+        "prompt": "Self-Deprecating Humor: ",
+        "completion": "I was going to cook a fancy dinner, but then I remembered that I\u2019m the type of person who burns toast\u2014so, takeout it is."
+    },
+    {
+        "prompt": "Self-Deprecating Humor: ",
+        "completion": "I decided to try meditation. It\u2019s going well, except I keep thinking about snacks during my \u2018calm, mindful breathing.\u2019"
+    },
+    {
+        "prompt": "Self-Deprecating Humor: ",
+        "completion": "I told myself I\u2019d get in shape this year, but apparently, the only shape my body is interested in is \u2018round.\u2019"
+    },
+    {
+        "prompt": "Self-Deprecating Humor: ",
+        "completion": "I\u2019m really good at multitasking\u2014I can procrastinate and be anxious about it all at the same time."
+    },
+    {
+        "prompt": "Self-Deprecating Humor: ",
+        "completion": "I tried being an adult, but I accidentally ordered pizza three nights in a row. So, now I\u2019m just aiming for \u2018functioning human.\u2019"
+    },
+    {
+        "prompt": "Slapstick: ",
+        "completion": "A man confidently walks into a room, slips on a banana peel, flips into the air, and lands in a perfectly placed pie on the floor."
+    },
+    {
+        "prompt": "Slapstick: ",
+        "completion": "A woman tries to swat a fly, but with every swing, she knocks over more objects\u2014a lamp, a vase, a chair\u2014until the room is in complete chaos. The fly, of course, is perfectly fine."
+    },
+    {
+        "prompt": "Slapstick: ",
+        "completion": "A man tries to balance a tall stack of books. He wobbles left, then right, and eventually, the whole stack collapses, sending books flying in every direction."
+    },
+    {
+        "prompt": "Slapstick: ",
+        "completion": "A woman attempts to sit in a chair, but as she lowers herself, the chair suddenly rolls away. She lands on the floor with a thud, bewildered but unharmed."
+    },
+    {
+        "prompt": "Slapstick: ",
+        "completion": "Two people carry a long ladder horizontally through a crowded street. As they turn a corner, they accidentally knock over everything in their path\u2014tables, signs, and a few unlucky pedestrians."
+    },
+    {
+        "prompt": "Slapstick: ",
+        "completion": "A waiter carrying a tray of drinks dramatically slips on a wet floor. In an exaggerated slow-motion sequence, the drinks launch into the air and splatter across the entire room."
+    },
+    {
+        "prompt": "Slapstick: ",
+        "completion": "A man tries to catch a falling stack of dishes, juggles them in the air, and just when it looks like he might save them, they all crash to the floor in a spectacular mess."
+    },
+    {
+        "prompt": "Slapstick: ",
+        "completion": "A woman opens a closet door, and an avalanche of junk pours out, completely burying her under a pile of clothes, shoes, and random household items."
+    },
+    {
+        "prompt": "Slapstick: ",
+        "completion": "A man enthusiastically swings a golf club, but instead of hitting the ball, he spins around and lands face-first in the sand trap."
+    },
+    {
+        "prompt": "Slapstick: ",
+        "completion": "Two characters pull on opposite ends of a rope, tugging furiously. Suddenly, the rope snaps, sending both flying backward\u2014one into a bush, the other into a conveniently placed puddle."
+    },
+    {
+        "prompt": "Parody: ",
+        "completion": "I\u2019ve been working from home for so long that my Zoom calls now include dramatic background music and slow-motion replays of me getting up to grab a snack\u2014like some kind of overly dramatic sports commentary."
+    },
+    {
+        "prompt": "Parody: ",
+        "completion": "I tried to cook like Gordon Ramsay once. After yelling at my vegetables for five minutes and calling my oven a 'disgrace,' I ended up burning the meal and ordering takeout."
+    },
+    {
+        "prompt": "Parody: ",
+        "completion": "I attempted yoga after watching a YouTube tutorial. Instead of finding inner peace, I found myself stuck in \u2018Downward Dog,\u2019 looking like a tangled pretzel, while the instructor kept saying, \u2018Just breathe.\u2019 Yeah, right."
+    },
+    {
+        "prompt": "Parody: ",
+        "completion": "My workout playlist is a parody of a motivational speech. It\u2019s like, \u2018You can do it! Just one more rep!\u2019 Meanwhile, I\u2019m sitting there, breathless after tying my shoes."
+    },
+    {
+        "prompt": "Parody: ",
+        "completion": "I decided to try being a minimalist, but I took it too far. Now I own one chair, one fork, and a single pair of socks. It\u2019s like living in an Ikea showroom\u2014except with less comfort."
+    },
+    {
+        "prompt": "Parody: ",
+        "completion": "I watched one episode of *The Crown,* and now I demand to be addressed as 'Your Majesty' whenever I enter the room. Sadly, my dog is the only one who listens."
+    },
+    {
+        "prompt": "Parody: ",
+        "completion": "I went to a wine-tasting event and pretended to know what I was doing. \u2018Mmm, yes, I detect a hint of grape\u2026 and maybe some\u2026 fermented grape?\u2019 The sommelier was not amused."
+    },
+    {
+        "prompt": "Parody: ",
+        "completion": "I binge-watched *The Great British Bake Off*, so I tried baking. Now my kitchen looks like a flour bomb exploded, and my cake? Let\u2019s just say it\u2019s more \u2018Great British Burn-Off.\u2019"
+    },
+    {
+        "prompt": "Parody: ",
+        "completion": "After watching *Top Gun*, I started narrating my daily life like an action movie. \u2018He\u2019s making a dangerous left turn into oncoming traffic\u2026 Will he survive? Only time will tell.\u2019 Spoiler: I was just going to the grocery store."
+    },
+    {
+        "prompt": "Parody: ",
+        "completion": "I attempted to Marie Kondo my closet. The only thing that sparked joy was finding my old band T-shirts, but now I have a more emotional attachment to my junk than ever before."
+    },
+    {
+        "prompt": "Satirical Commentary: ",
+        "completion": "I love how we have 24-hour news channels to keep us informed. Now I can spend my entire day getting the same three facts repeated with increasingly dramatic music, just in case I didn\u2019t understand it the first 20 times."
+    },
+    {
+        "prompt": "Satirical Commentary: ",
+        "completion": "Ah, nothing like a diet commercial reminding me that my worth is tied to my waistline. Because obviously, happiness and success only come in a size small."
+    },
+    {
+        "prompt": "Satirical Commentary: ",
+        "completion": "It's great that billionaires are going to space now. I mean, when you've already got ten mansions, two yachts, and an island, where else is there to go but off the planet? Earth is just so last season."
+    },
+    {
+        "prompt": "Satirical Commentary: ",
+        "completion": "I really appreciate how social media algorithms only show me what I already agree with. It's like living in a cozy little bubble where my opinions are always right\u2014so refreshing not having to think critically about anything anymore."
+    },
+    {
+        "prompt": "Satirical Commentary: ",
+        "completion": "Isn't it amazing how companies 'go green' by slapping a leaf on the label? Because we all know that a drawing of a tree on my plastic water bottle really helps reduce pollution."
+    },
+    {
+        "prompt": "Satirical Commentary: ",
+        "completion": "I love how the education system prepares us for life by making sure we know the Pythagorean theorem. Because when I\u2019m stressed about paying rent, it\u2019s a huge relief to know how to find the hypotenuse of a triangle."
+    },
+    {
+        "prompt": "Satirical Commentary: ",
+        "completion": "I really admire how modern fashion is all about looking effortlessly chic. Because nothing says 'effortless' like spending three hours and half a paycheck to look like you just rolled out of bed."
+    },
+    {
+        "prompt": "Satirical Commentary: ",
+        "completion": "It's comforting to know that in times of crisis, politicians are quick to tweet their thoughts and prayers. Truly, nothing solves global issues faster than a hashtag and a sad face emoji."
+    },
+    {
+        "prompt": "Satirical Commentary: ",
+        "completion": "I just love voting season. It\u2019s that special time of year when politicians pretend to care about me for exactly as long as it takes to get my vote. After that, it\u2019s back to being an extra in their democracy drama."
+    },
+    {
+        "prompt": "Satirical Commentary: ",
+        "completion": "I think it's wonderful how insurance companies are here to help\u2014by making sure I pay a monthly fee just in case something happens. But if something does happen, they\u2019re right there with a kind 'Sorry, not covered' response."
+    },
+    {
+        "prompt": "Anecdotal Humor: ",
+        "completion": "I tried to fix the sink last weekend. You know, how hard can it be, right? Well, now I\u2019m on a first-name basis with the plumber and my kitchen floor feels like the aftermath of SeaWorld\u2019s splash zone."
+    },
+    {
+        "prompt": "Anecdotal Humor: ",
+        "completion": "I recently started a 'beginner's' yoga class. By 'beginner,' they clearly meant 'people who can already bend in half.' Meanwhile, I\u2019m over here trying to touch my toes like it's some kind of magic trick."
+    },
+    {
+        "prompt": "Anecdotal Humor: ",
+        "completion": "So, I decided to bake cookies for the first time in years. Followed the recipe to a T, but apparently my oven was auditioning for *Hell's Kitchen*, because what came out could double as hockey pucks."
+    },
+    {
+        "prompt": "Anecdotal Humor: ",
+        "completion": "Last week, I went for a run\u2014felt great until I realized I had only made it to the end of my driveway. I guess my body\u2019s idea of 'exercise' is walking to the fridge and back."
+    },
+    {
+        "prompt": "Anecdotal Humor: ",
+        "completion": "I tried to be productive and clean out my closet. Three hours later, I was sitting on the floor surrounded by clothes I didn\u2019t even remember buying, and I still managed to put half of it back. Progress, right?"
+    },
+    {
+        "prompt": "Anecdotal Humor: ",
+        "completion": "I joined a book club to seem cultured. Turns out, the only thing I\u2019m really good at discussing is how long the wine lasts between chapters."
+    },
+    {
+        "prompt": "Anecdotal Humor: ",
+        "completion": "I decided to cook dinner for a change, instead of ordering takeout. Halfway through, I realized I forgot to buy half the ingredients, so I improvised. My dog seemed to love it\u2014my family, not so much."
+    },
+    {
+        "prompt": "Anecdotal Humor: ",
+        "completion": "I went on a hike the other day\u2014well, more like a glorified walk through the woods. I was proud until a family of toddlers and a grandmother power-walked past me. So, I stopped to 'enjoy the view'\u2014a.k.a. catch my breath."
+    },
+    {
+        "prompt": "Anecdotal Humor: ",
+        "completion": "I once tried to follow one of those 30-day fitness challenges. By day three, I was challenging myself to find creative ways to skip the workout without feeling guilty. 'Does walking to the car count? What if I take the stairs once?' It\u2019s all about balance!"
+    },
+    {
+        "prompt": "Anecdotal Humor: ",
+        "completion": "I recently started meal prepping\u2014planned out a whole week\u2019s worth of healthy meals. By day two, I was trading my grilled chicken for pizza and convincing myself that the calories don\u2019t count if you eat it standing up."
+    },
+    {
+        "prompt": "Hyperbole: ",
+        "completion": "I\u2019m so tired, I could sleep for a century and still wake up cranky."
+    },
+    {
+        "prompt": "Hyperbole: ",
+        "completion": "My inbox has so many unread emails, I\u2019m pretty sure I\u2019ll need a treasure map to find the bottom of it."
+    },
+    {
+        "prompt": "Hyperbole: ",
+        "completion": "The line at the coffee shop was so long, I had time to learn a new language, forget it, and relearn it."
+    },
+    {
+        "prompt": "Hyperbole: ",
+        "completion": "I\u2019m so hungry, I could eat an entire buffet and still have room for dessert."
+    },
+    {
+        "prompt": "Hyperbole: ",
+        "completion": "My dog sheds so much fur, I could knit an entire wardrobe out of it and still have enough left over for a blanket."
+    },
+    {
+        "prompt": "Hyperbole: ",
+        "completion": "I ate so much at dinner, I think I\u2019ve single-handedly delayed the restaurant\u2019s food supply chain for a week."
+    },
+    {
+        "prompt": "Hyperbole: ",
+        "completion": "The Wi-Fi was so slow, I felt like I was trying to load a webpage using smoke signals."
+    },
+    {
+        "prompt": "Hyperbole: ",
+        "completion": "I was stuck in traffic so long, I had enough time to contemplate the meaning of life, solve world peace, and still not move an inch."
+    },
+    {
+        "prompt": "Hyperbole: ",
+        "completion": "It\u2019s so hot outside, I\u2019m pretty sure my shoes melted to the sidewalk."
+    },
+    {
+        "prompt": "Hyperbole: ",
+        "completion": "My phone battery dies so fast, I\u2019m surprised it doesn\u2019t come with a pre-written goodbye note."
+    },
+    {
+        "prompt": "Innuendo: ",
+        "completion": "I went to the hardware store to pick up a hammer, but I ended up needing a bigger tool to get the job done."
+    },
+    {
+        "prompt": "Innuendo: ",
+        "completion": "I tried baking a pie, but the filling kept spilling out\u2014guess I overstuffed it."
+    },
+    {
+        "prompt": "Innuendo: ",
+        "completion": "He said he could fix my pipes, but after he was done, I still felt like something was leaking."
+    },
+    {
+        "prompt": "Innuendo: ",
+        "completion": "She said she\u2019s really good with plants\u2026 I\u2019m just hoping she can keep mine well-watered and thriving."
+    },
+    {
+        "prompt": "Innuendo: ",
+        "completion": "I took a yoga class to get more flexible\u2026 let\u2019s just say I can now reach places I didn\u2019t even know existed."
+    },
+    {
+        "prompt": "Innuendo: ",
+        "completion": "I ordered a footlong sandwich, and trust me, it was more than I could handle."
+    },
+    {
+        "prompt": "Innuendo: ",
+        "completion": "They told me the package was oversized, but I managed to fit it in just fine."
+    },
+    {
+        "prompt": "Innuendo: ",
+        "completion": "I asked him to help me move some heavy furniture, but after all that lifting, we both needed a break."
+    },
+    {
+        "prompt": "Innuendo: ",
+        "completion": "I finally bought a new car, and let\u2019s just say, it\u2019s got more power under the hood than I know what to do with."
+    },
+    {
+        "prompt": "Innuendo: ",
+        "completion": "She invited me over to help decorate her place, but somehow we ended up rearranging more than just the furniture."
+    },
+    {
+        "prompt": "Deadpan: ",
+        "completion": "I\u2019m really into minimalism. That\u2019s why I own nothing\u2026 except crippling debt."
+    },
+    {
+        "prompt": "Deadpan: ",
+        "completion": "I tried running today. Didn\u2019t go well. So now I\u2019m just walking\u2026 back to bed."
+    },
+    {
+        "prompt": "Deadpan: ",
+        "completion": "People keep telling me I look tired. That\u2019s weird, because I\u2019m actually exhausted."
+    },
+    {
+        "prompt": "Deadpan: ",
+        "completion": "I bought a self-help book. Now I\u2019m just waiting for it to help itself to the trash."
+    },
+    {
+        "prompt": "Deadpan: ",
+        "completion": "I started meditating. It\u2019s really calming, except for all the thoughts that won\u2019t stop screaming."
+    },
+    {
+        "prompt": "Deadpan: ",
+        "completion": "I think my phone hates me. It keeps dying just to avoid talking to me."
+    },
+    {
+        "prompt": "Deadpan: ",
+        "completion": "I\u2019m on a diet. It\u2019s called the \u2018see food\u2019 diet. I see food, and I eat it."
+    },
+    {
+        "prompt": "Deadpan: ",
+        "completion": "My doctor told me to get more exercise, so now I walk to the fridge twice before getting the ice cream."
+    },
+    {
+        "prompt": "Deadpan: ",
+        "completion": "I\u2019ve decided to be more positive. I\u2019m positively sure that everything is a disaster."
+    },
+    {
+        "prompt": "Deadpan: ",
+        "completion": "I tried yoga. It was going well until I fell asleep in child\u2019s pose."
+    },
+    {
+        "prompt": "Absurd Humor: ",
+        "completion": "I tried to teach my cat how to juggle, but he just stared at me like I was the one who didn\u2019t understand gravity."
+    },
+    {
+        "prompt": "Absurd Humor: ",
+        "completion": "I went to the store to buy milk, but somehow I came home with a duck in a raincoat and a can of invisible beans."
+    },
+    {
+        "prompt": "Absurd Humor: ",
+        "completion": "I once tried to cook pasta, but it ran away before I could catch it. Now I\u2019m stuck eating cereal that won\u2019t stop whispering my secrets."
+    },
+    {
+        "prompt": "Absurd Humor: ",
+        "completion": "I put my shoes on the wrong feet today. It wouldn\u2019t have been a problem if they didn\u2019t start arguing about who was doing a better job."
+    },
+    {
+        "prompt": "Absurd Humor: ",
+        "completion": "The last time I tried to be productive, my to-do list grew arms and legs, then ran off to join the circus. Haven\u2019t seen it since."
+    },
+    {
+        "prompt": "Absurd Humor: ",
+        "completion": "I asked my dog why he barks at the mailman, and he told me it\u2019s because the moon won\u2019t stop stealing his socks."
+    },
+    {
+        "prompt": "Absurd Humor: ",
+        "completion": "I once had a goldfish that could do algebra. But then it got distracted by the quadratic formula and left for a life of existential pondering."
+    },
+    {
+        "prompt": "Absurd Humor: ",
+        "completion": "I went to a restaurant where they serve breakfast all day, but when I ordered pancakes at 6 p.m., they just handed me a clock and told me to wait."
+    },
+    {
+        "prompt": "Absurd Humor: ",
+        "completion": "My plants have started a book club. I\u2019m not allowed to join, but they leave notes like, \u2018Water us or else.\u2019 It\u2019s very tense."
+    },
+    {
+        "prompt": "Absurd Humor: ",
+        "completion": "I thought I saw a UFO yesterday, but it turned out to be a giant frisbee thrown by a very ambitious squirrel."
+    },
+    {
+        "prompt": "Juvenile/Toilet Humor: ",
+        "completion": "Why did the toilet paper roll down the hill? To get to the bottom of things."
+    },
+    {
+        "prompt": "Juvenile/Toilet Humor: ",
+        "completion": "I tried to sneak a fart in class, but it ended up sounding like a trumpet solo. I guess I\u2019m not cut out for silent but deadly missions."
+    },
+    {
+        "prompt": "Juvenile/Toilet Humor: ",
+        "completion": "I asked my friend what\u2019s brown and sticky. He said, \u2018A stick.\u2019 I said, \u2018Nope, that\u2019s just what happens after you eat a bad burrito.\u2019"
+    },
+    {
+        "prompt": "Juvenile/Toilet Humor: ",
+        "completion": "I went to the bathroom at a fancy restaurant, and the toilet flushed itself. I guess even toilets here have better manners than I do."
+    },
+    {
+        "prompt": "Juvenile/Toilet Humor: ",
+        "completion": "My dog farted and looked at me like I did it. I\u2019m like, \u2018Buddy, we both know who\u2019s eating the mystery kibble around here.\u2019"
+    },
+    {
+        "prompt": "Juvenile/Toilet Humor: ",
+        "completion": "Why do farts always seem louder in public bathrooms? It\u2019s like the echo adds five decibels to the embarrassment."
+    },
+    {
+        "prompt": "Juvenile/Toilet Humor: ",
+        "completion": "I dropped my phone in the toilet once. Now every time I use it, I wonder if it\u2019s still holding a grudge."
+    },
+    {
+        "prompt": "Juvenile/Toilet Humor: ",
+        "completion": "If poop jokes aren\u2019t your thing, I totally understand. But come on, they\u2019re pretty solid, right?"
+    },
+    {
+        "prompt": "Juvenile/Toilet Humor: ",
+        "completion": "I tried to hold in a sneeze, but instead, I ended up farting. Great, now my body\u2019s just improvising."
+    },
+    {
+        "prompt": "Juvenile/Toilet Humor: ",
+        "completion": "Ever notice how the more you try not to laugh at a fart, the funnier it gets? It\u2019s like farts have some kind of hidden comedic timing superpower."
+    },
+    {
+        "prompt": "Sarcastic Hyperbole: ",
+        "completion": "I love waking up early. Nothing like starting my day with a headache and a bad attitude to get things rolling."
+    },
+    {
+        "prompt": "Sarcastic Hyperbole: ",
+        "completion": "Oh, you don\u2019t like chocolate? That\u2019s amazing\u2014what\u2019s it like being completely devoid of joy and happiness?"
+    },
+    {
+        "prompt": "Sarcastic Hyperbole: ",
+        "completion": "I\u2019m so bad at math, I could probably subtract three from five and somehow end up in a different time zone."
+    },
+    {
+        "prompt": "Sarcastic Hyperbole: ",
+        "completion": "Sure, I\u2019ll just do the dishes for the millionth time this week. I\u2019m a professional dishwasher now\u2014thinking of adding it to my r\u00e9sum\u00e9."
+    },
+    {
+        "prompt": "Sarcastic Hyperbole: ",
+        "completion": "I went to the gym once and immediately gained superhuman strength. Now I can lift a bag of chips without breaking a sweat."
+    },
+    {
+        "prompt": "Sarcastic Hyperbole: ",
+        "completion": "I\u2019d love to attend your four-hour meeting about nothing. It\u2019s like a dream come true\u2014who needs free time or happiness anyway?"
+    },
+    {
+        "prompt": "Sarcastic Hyperbole: ",
+        "completion": "I\u2019m so great at multitasking, I can worry about my entire life falling apart while doing absolutely nothing about it."
+    },
+    {
+        "prompt": "Sarcastic Hyperbole: ",
+        "completion": "Wow, you\u2019re doing yoga? That\u2019s so impressive! Next, you\u2019ll probably be able to levitate or achieve eternal enlightenment\u2014totally within reach."
+    },
+    {
+        "prompt": "Sarcastic Hyperbole: ",
+        "completion": "Sure, I\u2019ll help you move. Nothing I love more than lifting heavy furniture and questioning all of my life choices at the same time."
+    },
+    {
+        "prompt": "Sarcastic Hyperbole: ",
+        "completion": "I love Mondays so much; I think I\u2019ll petition to have them twice a week\u2014because who doesn\u2019t want double the exhaustion and existential dread?"
+    },
+    {
+        "prompt": "Sardonic Humor: ",
+        "completion": "I love working late. Nothing says \u2018I value my time\u2019 like spending it all on something I couldn\u2019t care less about."
+    },
+    {
+        "prompt": "Sardonic Humor: ",
+        "completion": "The best part of adulting is paying bills. Nothing more satisfying than watching your hard-earned money disappear into the void."
+    },
+    {
+        "prompt": "Sardonic Humor: ",
+        "completion": "It\u2019s great that we have social media now. I really needed a place where I can pretend to care about what people I haven\u2019t seen in 10 years are doing with their lives."
+    },
+    {
+        "prompt": "Sardonic Humor: ",
+        "completion": "I went to the doctor, and they told me I should exercise more. I guess slowly dying from inactivity wasn\u2019t the workout plan they had in mind."
+    },
+    {
+        "prompt": "Sardonic Humor: ",
+        "completion": "I\u2019m so glad I spent years in school, so I could enter the workforce and realize that nothing I learned actually matters."
+    },
+    {
+        "prompt": "Sardonic Humor: ",
+        "completion": "I finally cleaned my house today. Now it\u2019s spotless, and I can enjoy the five seconds of peace before life comes in and wrecks everything again."
+    },
+    {
+        "prompt": "Sardonic Humor: ",
+        "completion": "I tried to eat healthy for a week. Now I\u2019m just waiting for my award for enduring the sheer misery of salads and tasteless vegetables."
+    },
+    {
+        "prompt": "Sardonic Humor: ",
+        "completion": "Oh, you\u2019re getting married? That\u2019s great. I hear signing up for a lifelong roommate is exactly what every introvert dreams of."
+    },
+    {
+        "prompt": "Sardonic Humor: ",
+        "completion": "I love going to the gym. Nothing like paying money to feel bad about how out of shape you are in front of strangers."
+    },
+    {
+        "prompt": "Sardonic Humor: ",
+        "completion": "I tried meditation to reduce my stress. Turns out, the real stress relief comes from realizing that nothing actually matters."
+    },
+    {
+        "prompt": "Situational Comedy (Sitcom Humor): ",
+        "completion": "I was at the grocery store, and my phone rang. It was my mom asking if I needed anything. I said, 'I\u2019m at the store, Mom.' She says, 'Okay, but do you need anything?' I said, 'Yes, patience. Lots of it.'"
+    },
+    {
+        "prompt": "Situational Comedy (Sitcom Humor): ",
+        "completion": "I went to the dentist, and they said, 'Have you been flossing?' I lied and said, 'Yes, of course.' Then they handed me the floss like it was some rare artifact, and I had to pretend I wasn\u2019t baffled by it."
+    },
+    {
+        "prompt": "Situational Comedy (Sitcom Humor): ",
+        "completion": "I tried to look cool at the gym by lifting heavier weights. Thirty seconds later, I was trapped under the barbell, trying to figure out if I could use my phone to call for help without anyone noticing."
+    },
+    {
+        "prompt": "Situational Comedy (Sitcom Humor): ",
+        "completion": "I was at a restaurant, and the waiter asked how my food was. I said, 'It\u2019s great!' Then I went back to chewing the world\u2019s driest chicken like it was a personal challenge not to choke."
+    },
+    {
+        "prompt": "Situational Comedy (Sitcom Humor): ",
+        "completion": "My friend told me they never get sick. So, naturally, the next day, they\u2019re laid out with a cold, and I had to resist the urge to show up with a 'Congratulations, you\u2019re human' card."
+    },
+    {
+        "prompt": "Situational Comedy (Sitcom Humor): ",
+        "completion": "I tried to be polite and hold the door for someone, but they were so far away that I ended up standing there for an eternity, slowly regretting every life choice that led me to this moment."
+    },
+    {
+        "prompt": "Situational Comedy (Sitcom Humor): ",
+        "completion": "I went to a party, and someone asked if I had any hobbies. I panicked and said, 'I like sleeping.' They laughed, but little did they know, I was dead serious."
+    },
+    {
+        "prompt": "Situational Comedy (Sitcom Humor): ",
+        "completion": "I once tried to tell a joke at a party, but I got so nervous halfway through that I completely forgot the punchline. So, naturally, I just ended with, 'And then we all died\u2026' Surprisingly, everyone laughed."
+    },
+    {
+        "prompt": "Situational Comedy (Sitcom Humor): ",
+        "completion": "I was on a video call, and my cat decided that was the perfect time to walk across the keyboard. I tried to play it off like, 'Oh, she\u2019s helping with the meeting,' but in reality, she was just trying to sabotage my career."
+    },
+    {
+        "prompt": "Situational Comedy (Sitcom Humor): ",
+        "completion": "I went to make a quick phone call and accidentally dialed my ex. Instead of hanging up, I panicked and left a message pretending to be the cable company offering a new bundle."
+    },
+    {
+        "prompt": "Topical Humor: ",
+        "completion": "Amazon is helping the Israeli military store surveillance data. Wow, next-day shipping and surveillance\u2014talk about customer service!"
+    },
+    {
+        "prompt": "Topical Humor: ",
+        "completion": "The U.N. says we\u2019re not seeing the money needed for climate justice. Even saving the planet is on backorder\u2014maybe they should try Prime."
+    },
+    {
+        "prompt": "Topical Humor: ",
+        "completion": "They just disbanded Thailand\u2019s largest opposition party for criticizing the royal family. Well, that\u2019s one way to avoid bad Yelp reviews."
+    },
+    {
+        "prompt": "Topical Humor: ",
+        "completion": "Bangladesh is on its 'second liberation day,' but given the political climate, they may consider doing a third and fourth just to be safe."
+    },
+    {
+        "prompt": "Topical Humor: ",
+        "completion": "Mpox is spreading, and now they\u2019re warning us not to have sex if we\u2019ve got lesions. Well, that\u2019s one way to kill the mood\u2014'Hey baby, mind if I just\u2026 not?'"
+    },
+    {
+        "prompt": "Topical Humor: ",
+        "completion": "Sudan\u2019s got famine, and the U.N. says it's a 'shameful stain on our collective conscience.' Well, if conscience-cleaning were a job, I\u2019d say we\u2019ve got a full-blown laundry emergency."
+    },
+    {
+        "prompt": "Topical Humor: ",
+        "completion": "Schools in Gaza are being bombed, and chlorine is running out. Meanwhile, I\u2019m getting upset when Starbucks runs out of oat milk. Perspective, right?"
+    },
+    {
+        "prompt": "Topical Humor: ",
+        "completion": "With extreme heat causing a national blood shortage, maybe it\u2019s time to start considering iced blood donations\u2014keep it cool, people."
+    },
+    {
+        "prompt": "Topical Humor: ",
+        "completion": "Kamala Harris is being defended as tough on crime. In other news, I defended my cat as 'tough on laziness'\u2014neither statement went over well."
+    },
+    {
+        "prompt": "Topical Humor: ",
+        "completion": "Cori Bush lost her primary after AIPAC dropped $9 million to defeat her. At this point, maybe they should just start sending politicians those 'We\u2019ll pay you to leave' gift baskets."
+    },
+    {
+        "prompt": "Blue Humor: ",
+        "completion": "I went to a nude beach once. Let\u2019s just say some things are better left to the imagination\u2014like the sight of that guy playing volleyball."
+    },
+    {
+        "prompt": "Blue Humor: ",
+        "completion": "They say marriage is about compromise. That\u2019s why we have two bathrooms\u2014one for me and one for whatever science experiment my husband\u2019s got going on after taco night."
+    },
+    {
+        "prompt": "Blue Humor: ",
+        "completion": "I tried to talk dirty to my partner, but we just ended up laughing because I sounded like I was narrating a cooking show."
+    },
+    {
+        "prompt": "Blue Humor: ",
+        "completion": "Ever sneeze in public and accidentally let out something else? Yeah, that\u2019s when you just keep walking and hope nobody noticed\u2026 even though they definitely did."
+    },
+    {
+        "prompt": "Blue Humor: ",
+        "completion": "I love romance. Nothing says 'I love you' like spending 20 minutes trying to find a comfortable position that doesn\u2019t involve elbowing each other in the ribs."
+    },
+    {
+        "prompt": "Blue Humor: ",
+        "completion": "I tried to give my partner a back rub to be sexy, but I\u2019m pretty sure I just dislocated a shoulder."
+    },
+    {
+        "prompt": "Blue Humor: ",
+        "completion": "The difference between men and women? When a guy says he\u2019s 'ready,' it usually means his pants are still on the floor somewhere."
+    },
+    {
+        "prompt": "Blue Humor: ",
+        "completion": "I joined a gym to work on my glutes, but it turns out the only thing getting a workout is the amount of time I spend trying to look like I know what I\u2019m doing."
+    },
+    {
+        "prompt": "Blue Humor: ",
+        "completion": "Getting older is fun. My body\u2019s starting to make noises I didn\u2019t even know were possible. I bend down, and suddenly I\u2019m a symphony of creaks and pops."
+    },
+    {
+        "prompt": "Blue Humor: ",
+        "completion": "Sex in movies is all passionate and glamorous. In real life, it\u2019s more like, 'Wait, was that your elbow or my knee? Never mind, just keep going.'"
+    },
+    {
+        "prompt": "Political Humor: ",
+        "completion": "Politicians are like diapers\u2014they need to be changed often, and for the same reason."
+    },
+    {
+        "prompt": "Political Humor: ",
+        "completion": "I love how every election is about \u2018change.\u2019 Four years later, we\u2019re all like, \u2018Wow, everything\u2019s exactly the same, but now with more campaign ads.\u2019"
+    },
+    {
+        "prompt": "Political Humor: ",
+        "completion": "They say politicians work for the people. Sure, but only if 'the people' is code for lobbyists and major donors."
+    },
+    {
+        "prompt": "Political Humor: ",
+        "completion": "I went to a political rally once. It was like a rock concert, except instead of good music, they just played the greatest hits of broken promises."
+    },
+    {
+        "prompt": "Political Humor: ",
+        "completion": "Campaign promises are amazing\u2014it's like watching a magician pull rabbits out of hats, except the rabbits disappear as soon as they win."
+    },
+    {
+        "prompt": "Political Humor: ",
+        "completion": "They say voting is important because every vote counts. Unless it\u2019s in the electoral college\u2014then it\u2019s like, \u2018Eh, we\u2019ll figure it out for you.\u2019"
+    },
+    {
+        "prompt": "Political Humor: ",
+        "completion": "I wish I had the confidence of a politician. They can mess up an entire country and still ask for a raise."
+    },
+    {
+        "prompt": "Political Humor: ",
+        "completion": "In politics, it\u2019s all about spin. If politicians spun any faster, they\u2019d start generating renewable energy."
+    },
+    {
+        "prompt": "Political Humor: ",
+        "completion": "Congress is like a group project where everyone hates each other, nobody does their part, and somehow you still get an F."
+    },
+    {
+        "prompt": "Political Humor: ",
+        "completion": "I love how politicians say they 'work across the aisle.' Yeah, they\u2019re crossing the aisle to grab a snack and then heading back to gridlock."
+    },
+    {
+        "prompt": "Surreal Humor: ",
+        "completion": "I tried to teach my goldfish how to play the piano, but he just kept swimming in circles. Turns out, he prefers jazz."
+    },
+    {
+        "prompt": "Surreal Humor: ",
+        "completion": "I opened my fridge, and inside was a tiny giraffe making toast. I didn\u2019t question it\u2014I just asked him to pass the butter."
+    },
+    {
+        "prompt": "Surreal Humor: ",
+        "completion": "I went to the dentist, but instead of a check-up, they handed me a shovel and told me to dig for my teeth in the backyard. Surprisingly, I found a treasure chest."
+    },
+    {
+        "prompt": "Surreal Humor: ",
+        "completion": "My alarm clock didn\u2019t go off this morning. Instead, it turned into a bird, flew out the window, and squawked, \u2018You\u2019re late!\u2019 as it disappeared into the sunrise."
+    },
+    {
+        "prompt": "Surreal Humor: ",
+        "completion": "I walked into the bookstore, and every book was upside down and written in ancient runes. The cashier was a cat wearing glasses, but he gave me a discount, so I didn\u2019t mind."
+    },
+    {
+        "prompt": "Surreal Humor: ",
+        "completion": "I ordered a salad at a restaurant, but when it arrived, it was a bouquet with a tiny note that said, \u2018Eat dreams, not leaves.\u2019 So I tipped the waiter in Monopoly money."
+    },
+    {
+        "prompt": "Surreal Humor: ",
+        "completion": "I went for a jog this morning, but halfway through, the pavement turned into marshmallows, and suddenly I was bouncing down the street like an astronaut on a trampoline."
+    },
+    {
+        "prompt": "Surreal Humor: ",
+        "completion": "I looked up at the night sky and saw that the moon had become a giant cookie. Naturally, I grabbed a ladder and tried to take a bite, but the stars told me it was gluten-free."
+    },
+    {
+        "prompt": "Surreal Humor: ",
+        "completion": "My car refused to start, so I asked it nicely. It responded by turning into a bicycle and saying, \u2018Let\u2019s pedal our way to enlightenment.\u2019 So I grabbed my helmet and followed its lead."
+    },
+    {
+        "prompt": "Surreal Humor: ",
+        "completion": "I sat down to write a letter, but the pen turned into a snake and started telling me jokes. We ended up writing a comedy sketch together\u2014it was hiss-terical."
+    },
+    {
+        "prompt": "Mockumentary Style: ",
+        "completion": "Here we have the elusive office worker, seen in its natural habitat: staring blankly at a screen while pretending to be busy. Notice how it expertly navigates the art of looking productive during a two-hour scroll through social media."
+    },
+    {
+        "prompt": "Mockumentary Style: ",
+        "completion": "In a rare sighting, we observe the suburban dad attempting to assemble a barbecue grill without instructions. Watch as he bravely pretends he knows what he's doing, despite the growing pile of extra screws."
+    },
+    {
+        "prompt": "Mockumentary Style: ",
+        "completion": "This is the story of the modern shopper. Notice how they enter the grocery store with a list of essentials but quickly abandon all logic and load their cart with snacks, candles, and a set of kitchen utensils they'll never use."
+    },
+    {
+        "prompt": "Mockumentary Style: ",
+        "completion": "Meet Sarah, a seasoned remote worker. Watch as she masterfully switches between work emails and Netflix in the blink of an eye, a skill honed over years of \u2018multitasking\u2019 from the comfort of her bed."
+    },
+    {
+        "prompt": "Mockumentary Style: ",
+        "completion": "We follow the rare phenomenon known as \u2018cleaning the house for guests.\u2019 Witness as the subject frantically stuffs clutter into random closets, creating a false sense of order, only to forget where they hid everything later."
+    },
+    {
+        "prompt": "Mockumentary Style: ",
+        "completion": "This is Bob, a seasoned driver stuck in morning traffic. Observe his complete lack of reaction as he listens to the same radio show he's heard for years, slowly losing his will to care about the latest \u2018breaking news.\u2019"
+    },
+    {
+        "prompt": "Mockumentary Style: ",
+        "completion": "In the wild, we see the urban hipster in their favorite environment\u2014a local coffee shop. Here, they order drinks with names so complex, it\u2019s hard to tell if they\u2019re asking for a beverage or reciting poetry."
+    },
+    {
+        "prompt": "Mockumentary Style: ",
+        "completion": "Today, we document the mysterious behavior of the cat owner. Watch as they attempt to get their cat\u2019s attention, only to be met with cold indifference. And yet, they will continue to try, undeterred by years of rejection."
+    },
+    {
+        "prompt": "Mockumentary Style: ",
+        "completion": "In this rare moment, we capture the weekend warrior as they enthusiastically plan a hike. Little do they know, their adventure will end not on a mountaintop, but on the couch, with snacks and a movie marathon."
+    },
+    {
+        "prompt": "Mockumentary Style: ",
+        "completion": "We observe the millennial in their natural habitat: the streaming service menu. Watch as they spend hours scrolling through options, only to select the same comfort show they\u2019ve watched ten times before."
+    },
+    {
+        "prompt": "Impressions/Imitative Humor: ",
+        "completion": "Arnold Schwarzenegger: I\u2019ll be back... after I find where I left my car keys. They\u2019re around here somewhere. Hasta la vista, clutter\\! "
+    },
+    {
+        "prompt": "Impressions/Imitative Humor: ",
+        "completion": "David Attenborough: And here we see the rare human, venturing into the grocery store without a list, wandering aimlessly, lost in its natural habitat\u2026 the snack aisle. "
+    },
+    {
+        "prompt": "Impressions/Imitative Humor: ",
+        "completion": "Gordon Ramsay: This chicken is so undercooked, it just flew off the plate and tried to file for birdseed\\! "
+    },
+    {
+        "prompt": "Impressions/Imitative Humor: ",
+        "completion": "Yoda: To the fridge, I go. Snacks, I must have. Hungry, I am. "
+    },
+    {
+        "prompt": "Impressions/Imitative Humor: ",
+        "completion": "Morgan Freeman: I walked into that room, and I knew instantly\u2026 that I\u2019d forgotten why I\u2019d gone in there. But sometimes, it\u2019s not about the destination. It\u2019s about the journey back to the couch. "
+    },
+    {
+        "prompt": "Impressions/Imitative Humor: ",
+        "completion": "Christopher Walken: Wow\\! You\u2019ve got to stop\u2026 eating all the cookies. Leave some\u2026 for the rest of us. I mean\u2026 come on\\! "
+    },
+    {
+        "prompt": "Impressions/Imitative Humor: ",
+        "completion": "Robert De Niro: You talkin\u2019 to me? You talkin\u2019 to me? No really, are you talking to me, or are you on your Bluetooth? I can never tell these days. "
+    },
+    {
+        "prompt": "Impressions/Imitative Humor: ",
+        "completion": "Elvis Presley: Thank you, thank you very much\u2026 but I can\u2019t fit into these blue suede shoes anymore after all that peanut butter and banana. "
+    },
+    {
+        "prompt": "Impressions/Imitative Humor: ",
+        "completion": "Matthew McConaughey: Alright, alright, alright. Life\u2019s like a highway, man. You just gotta cruise. But sometimes, you hit a traffic jam, and then you just gotta chill. Be cool, like a cucumber on a summer day. "
+    },
+    {
+        "prompt": "Impressions/Imitative Humor: ",
+        "completion": "Sylvester Stallone (Rocky Balboa): Yo, Adrian\\! I did it\\! I folded the laundry... well, almost. There\u2019s still a sock missing, but it\u2019s out there. Somewhere. "
+    },
+    {
+        "prompt": "Character Comedy: ",
+        "completion": "The Overly Enthusiastic Tour Guide: And here we have the breakroom\u2014where dreams come to die\\! I mean, recharge\\! Isn\u2019t it exciting? Look at that microwave\u2014it\u2019s been defrosting frozen lunches since 1998\\! Amazing, right? "
+    },
+    {
+        "prompt": "Character Comedy: ",
+        "completion": "The Relentlessly Optimistic Waiter: Oh, your soup is cold? That\u2019s just how we serve it here, it\u2019s, um, artisanal\\! A real culinary experience\\! You get the full flavor profile when you don\u2019t let the heat distract you\\! "
+    },
+    {
+        "prompt": "Character Comedy: ",
+        "completion": "The Conspiracy Theory Neighbor: You see, the government\u2019s been hiding the truth from us for years. That\u2019s why your Wi-Fi keeps cutting out\u2014aliens\\! And the squirrels? Don\u2019t trust \u2018em. They\u2019re spies, man. Wake up\\! "
+    },
+    {
+        "prompt": "Character Comedy: ",
+        "completion": "The Eccentric Artist: This sculpture? Oh, darling, it\u2019s an expression of my inner turmoil, a reflection of society\u2019s downfall, and, yes, it\u2019s made entirely out of spaghetti noodles. Art is pain, you know? "
+    },
+    {
+        "prompt": "Character Comedy: ",
+        "completion": "The Paranoid IT Guy: Oh, you want to open that email? Are you sure? Because that\u2019s exactly what they want you to do. One click, and boom\u2014you\u2019ve opened the gateway to hackers, viruses, and probably the dark web. Just use a pigeon next time\\! "
+    },
+    {
+        "prompt": "Character Comedy: ",
+        "completion": "The Overconfident DIY Dad: Why hire a plumber when I can fix it myself? Hand me that duct tape. And that hammer. And\u2026 wait, does anyone know how to turn the water off? Never mind, I got this\\! "
+    },
+    {
+        "prompt": "Character Comedy: ",
+        "completion": "The Superhero with Questionable Powers: Fear not\\! I am here to save the day\u2026 as long as that day involves finding lost car keys or getting jars open. Anything else might be outside my jurisdiction. "
+    },
+    {
+        "prompt": "Character Comedy: ",
+        "completion": "The Inappropriate Office Comedian: Oh, you\u2019re getting married? That\u2019s great\\! I\u2019ve been married three times. Let me give you some advice: never argue about who left the toilet seat up\u2014it\u2019s a slippery slope to separate vacations. "
+    },
+    {
+        "prompt": "Character Comedy: ",
+        "completion": "The Pretentious Barista: You want just a regular coffee? How quaint. But have you considered our single-origin, handpicked, shade-grown, ethically sourced, cold-brewed, nitrogen-infused espresso? It\u2019s what the gods would drink\u2026 if they could afford it. "
+    },
+    {
+        "prompt": "Character Comedy: ",
+        "completion": "The Forgetful Grandparent: Back in my day, we didn\u2019t have all this fancy technology. No, we just sent messages through\u2026 what was it again? Pigeons? Smoke signals? Anyway, what was I talking about? "
+    },
+    {
+        "prompt": "Punishment Humor: ",
+        "completion": "He told his friend to 'chill out,' so naturally, he ended up locked in the walk-in freezer for the next half hour. "
+    },
+    {
+        "prompt": "Punishment Humor: ",
+        "completion": "After bragging that he was a master chef, he ended up with a kitchen full of burnt pans and a smoke alarm that wouldn\u2019t stop blaring. Master chef indeed."
+    },
+    {
+        "prompt": "Punishment Humor: ",
+        "completion": "She insisted she didn\u2019t need a map on the hike. Three hours later, they were \u2018exploring\u2019 the same patch of forest for the fourth time."
+    },
+    {
+        "prompt": "Punishment Humor: ",
+        "completion": "He thought he could impress everyone by showing off his dance moves at the party. Now, he\u2019s known as the guy who slipped on spilled punch and face-planted into the cake."
+    },
+    {
+        "prompt": "Punishment Humor: ",
+        "completion": "He joked about being the fastest runner in the group. His 'punishment'? Having to chase after the bus they all left him behind on."
+    },
+    {
+        "prompt": "Punishment Humor: ",
+        "completion": "She swore she could build that Ikea bookshelf without the instructions. The punishment? Three hours later, she had an abstract sculpture made of wooden planks and misplaced screws."
+    },
+    {
+        "prompt": "Punishment Humor: ",
+        "completion": "He mocked the old printer for being slow. Naturally, it chose the next moment to jam spectacularly and cover him in a flurry of paper."
+    },
+    {
+        "prompt": "Punishment Humor: ",
+        "completion": "She insisted she could handle spicy food like a pro. Five minutes into the meal, she was guzzling milk straight from the carton, and her face was redder than the hot sauce."
+    },
+    {
+        "prompt": "Punishment Humor: ",
+        "completion": "He refused to use sunblock because he \u2018never burns.\u2019 Now he\u2019s spending the rest of the vacation looking like a lobster, and his friends won\u2019t stop calling him 'Red.'"
+    },
+    {
+        "prompt": "Punishment Humor: ",
+        "completion": "She tried to cut corners on her DIY project, claiming, 'It\u2019ll hold!' Now she\u2019s staring at a broken table that collapsed when someone placed a cup on it."
+    },
+    {
+        "prompt": "Shock Humor: ",
+        "completion": "My friend said she wants to break up with her boyfriend but doesn\u2019t know how. I told her, \u2018Just start calling him by your ex\u2019s name\u2014it\u2019ll take care of itself.\u2019"
+    },
+    {
+        "prompt": "Shock Humor: ",
+        "completion": "I asked my wife if she loved me, and she said, \u2018Of course I do, especially when you're out of the house.\u2019"
+    },
+    {
+        "prompt": "Shock Humor: ",
+        "completion": "My boss said I should take more initiative at work. So, I started packing up his office."
+    },
+    {
+        "prompt": "Shock Humor: ",
+        "completion": "I told my friend I\u2019m thinking about getting a dog. She said, \u2018Oh good, someone else for you to disappoint.\u2019"
+    },
+    {
+        "prompt": "Shock Humor: ",
+        "completion": "I asked my husband what he\u2019d do if I left him. He said, \u2018Well, I\u2019d finally get some peace and quiet around here.\u2019"
+    },
+    {
+        "prompt": "Shock Humor: ",
+        "completion": "I told my friend I was feeling lonely. She said, \u2018You get used to it. Or at least that\u2019s what my plants tell me.\u2019"
+    },
+    {
+        "prompt": "Shock Humor: ",
+        "completion": "I told my mom I was stressed, and she said, \u2018Well, maybe if you made better choices, you wouldn\u2019t be.\u2019"
+    },
+    {
+        "prompt": "Shock Humor: ",
+        "completion": "My therapist told me I needed to let go of the past. So I stopped paying her bills\u2014she\u2019s part of my past now."
+    },
+    {
+        "prompt": "Shock Humor: ",
+        "completion": "I told my partner I wanted to work on our relationship. They said, \u2018Great, you can start by working on yourself first.\u2019"
+    },
+    {
+        "prompt": "Shock Humor: ",
+        "completion": "I asked my friend how I could improve myself. She said, \u2018Well, you could start by being someone else entirely.\u2019"
+    },
+    {
+        "prompt": "Non-Sequitur: ",
+        "completion": "Why did the chicken cross the road? To buy a skateboard because the bananas told him it was the only way to get to Mars."
+    },
+    {
+        "prompt": "Non-Sequitur: ",
+        "completion": "I went to the store to buy some milk, but I came home with a unicycle and a penguin named Gerald."
+    },
+    {
+        "prompt": "Non-Sequitur: ",
+        "completion": "What\u2019s the secret to a happy marriage? Always keep a rubber duck in your sock drawer for emergencies."
+    },
+    {
+        "prompt": "Non-Sequitur: ",
+        "completion": "Knock knock."
+    },
+    {
+        "prompt": "Non-Sequitur: ",
+        "completion": "Who\u2019s there? Orange. Orange who? Never mind, I\u2019m a toaster."
+    },
+    {
+        "prompt": "Non-Sequitur: ",
+        "completion": "I asked my teacher for advice on studying. She handed me a spoon and told me to always trust a giraffe in a hat."
+    },
+    {
+        "prompt": "Non-Sequitur: ",
+        "completion": "Why don\u2019t elephants use computers? Because it\u2019s impossible to juggle spaghetti underwater on a Tuesday."
+    },
+    {
+        "prompt": "Non-Sequitur: ",
+        "completion": "I tried going to the gym, but instead I ended up learning how to speak fluent alpaca."
+    },
+    {
+        "prompt": "Non-Sequitur: ",
+        "completion": "My friend asked if I wanted to go for a walk, so naturally, I handed him a pineapple and started tap dancing."
+    },
+    {
+        "prompt": "Non-Sequitur: ",
+        "completion": "What do you call a bear with no teeth? It doesn\u2019t matter, because all the furniture in my house is made of marshmallows."
+    },
+    {
+        "prompt": "Non-Sequitur: ",
+        "completion": "I was feeling sad, so I ate a sandwich. Now the pigeons won\u2019t stop giving me financial advice."
+    },
+    {
+        "prompt": "Meta Humor: ",
+        "completion": "Why did the chicken cross the road? Wait, are we still doing this joke? Hasn\u2019t the chicken crossed the road enough times by now?"
+    },
+    {
+        "prompt": "Meta Humor: ",
+        "completion": "Knock knock. Who\u2019s there? It\u2019s me, the part of the joke that explains why this is funny. I\u2019m just here to make sure you know this is all very clever."
+    },
+    {
+        "prompt": "Meta Humor: ",
+        "completion": "This is the part of the joke where you\u2019re supposed to laugh, so I\u2019ll just pause for your convenience."
+    },
+    {
+        "prompt": "Meta Humor: ",
+        "completion": "I was going to make a joke about time travel, but then I realized it\u2019s already been done in the future. So, never mind."
+    },
+    {
+        "prompt": "Meta Humor: ",
+        "completion": "Here\u2019s a funny story\u2026 Actually, you know what? I\u2019m just going to skip the setup and tell you it\u2019s funny. We all know where this is going."
+    },
+    {
+        "prompt": "Meta Humor: ",
+        "completion": "I wanted to tell a pun, but then I realized, does the world really need another pun? Isn\u2019t this whole joke just me fulfilling some tired comedic obligation?"
+    },
+    {
+        "prompt": "Meta Humor: ",
+        "completion": "A man walks into a bar. Wait, why are men always walking into bars in these jokes? You\u2019d think by now, bars would have installed some kind of doorbell."
+    },
+    {
+        "prompt": "Meta Humor: ",
+        "completion": "This joke is like a trainwreck\u2014you know you should stop reading, but you can\u2019t look away. And now here we are, stuck in this mess together."
+    },
+    {
+        "prompt": "Meta Humor: ",
+        "completion": "I\u2019m about to tell a joke, but first let\u2019s acknowledge how awkward this is for both of us. You\u2019re waiting for the punchline, and I\u2019m pretending I know what I\u2019m doing."
+    },
+    {
+        "prompt": "Meta Humor: ",
+        "completion": "This is a meta-joke. It\u2019s self-aware. It knows it\u2019s a joke, but it also knows it\u2019s tired of being a joke. Maybe it just wants to be taken seriously for once."
+    },
+    {
+        "prompt": "Blunder Humor: ",
+        "completion": "I tried to text my boss that I was 'running late,' but autocorrect changed it to 'ruining fate.' Now I\u2019m pretty sure I\u2019m getting a formal written warning\u2026 from destiny."
+    },
+    {
+        "prompt": "Blunder Humor: ",
+        "completion": "I accidentally waved back at someone who wasn\u2019t waving at me. To make it less awkward, I pretended I was just swatting at an imaginary fly\u2026 for a good ten seconds."
+    },
+    {
+        "prompt": "Blunder Humor: ",
+        "completion": "I was late to the meeting and tried to sneak in quietly. Of course, the door squeaked like a haunted house, and then I tripped over a chair. Nothing says \u2018professional\u2019 like crashing into a room."
+    },
+    {
+        "prompt": "Blunder Humor: ",
+        "completion": "I went to an important dinner and confidently ordered in French. The waiter just stared at me and said, \u2018Sir, this is an Italian restaurant.\u2019"
+    },
+    {
+        "prompt": "Blunder Humor: ",
+        "completion": "I called my friend to vent about how annoying my boss is. It turns out that I had accidentally called my boss. Now I\u2019m just waiting for that awkward Monday morning chat."
+    },
+    {
+        "prompt": "Blunder Humor: ",
+        "completion": "I thought it would be impressive to parallel park in front of my date. Instead, I hit the curb, bounced onto the sidewalk, and blocked two parking spots. Romantic, right?"
+    },
+    {
+        "prompt": "Blunder Humor: ",
+        "completion": "I tried to make a good first impression by shaking hands with my new colleague. Instead, I knocked her coffee out of her hand, and we both just stood there staring at the mess."
+    },
+    {
+        "prompt": "Blunder Humor: ",
+        "completion": "I proudly told everyone I\u2019d fixed the leaky faucet by myself. Five minutes later, the kitchen was flooding, and my cat was trying to float on a dish towel."
+    },
+    {
+        "prompt": "Blunder Humor: ",
+        "completion": "I mistook a stranger for my friend and hugged them from behind. When they turned around, we both just stood there, horrified. I wish the earth had swallowed me whole."
+    },
+    {
+        "prompt": "Blunder Humor: ",
+        "completion": "I was trying to look cool on my new bike, but when I tried to stop, my foot missed the pedal, and I crashed straight into a trash can. I just pretended that was the plan all along."
+    },
+    {
+        "prompt": "Anti-Joke: ",
+        "completion": "Why did the chicken cross the road? Because chickens can\u2019t operate vehicles."
+    },
+    {
+        "prompt": "Anti-Joke: ",
+        "completion": "Knock knock. Who\u2019s there? It\u2019s me. I just wanted to say hello."
+    },
+    {
+        "prompt": "Anti-Joke: ",
+        "completion": "What\u2019s brown and sticky? A stick."
+    },
+    {
+        "prompt": "Anti-Joke: ",
+        "completion": "Why did the boy drop his ice cream? Because he tripped."
+    },
+    {
+        "prompt": "Anti-Joke: ",
+        "completion": "How do you make a tissue dance? You don\u2019t. You just blow your nose into it."
+    },
+    {
+        "prompt": "Anti-Joke: ",
+        "completion": "Why can\u2019t dinosaurs talk? Because they\u2019re extinct."
+    },
+    {
+        "prompt": "Anti-Joke: ",
+        "completion": "What did one wall say to the other? Nothing. Walls can\u2019t talk."
+    },
+    {
+        "prompt": "Anti-Joke: ",
+        "completion": "Why was six afraid of seven? It wasn\u2019t. Numbers are not sentient beings."
+    },
+    {
+        "prompt": "Anti-Joke: ",
+        "completion": "What do you call a fish with no eyes? A fish, because it doesn\u2019t need eyes to be a fish."
+    },
+    {
+        "prompt": "Anti-Joke: ",
+        "completion": "Why did the man fall down the well? Because he didn\u2019t see the well, and therefore, he fell."
+    },
+    {
+        "prompt": "Anachronism: ",
+        "completion": "Julius Caesar walked into Starbucks and said, 'Et tu, barista? I ordered a latte, not a cappuccino!'"
+    },
+    {
+        "prompt": "Anachronism: ",
+        "completion": "Shakespeare in a modern classroom: 'To be or not to be\u2026 that\u2019s what I\u2019ll Google later.'"
+    },
+    {
+        "prompt": "Anachronism: ",
+        "completion": "King Arthur pulls out his sword and says, 'Is this Excalibur? No, it\u2019s an iPhone! Where did this come from?'"
+    },
+    {
+        "prompt": "Anachronism: ",
+        "completion": "Mozart steps up to a DJ booth and says, 'Forget sonatas, let\u2019s drop some beats!' "
+    },
+    {
+        "prompt": "Anachronism: ",
+        "completion": "Abraham Lincoln scrolling through Twitter: 'Four score and seven notifications ago\u2026 wait, why is everyone tagging me in memes?'"
+    },
+    {
+        "prompt": "Anachronism: ",
+        "completion": "Leonardo da Vinci painting the Mona Lisa, suddenly asks, 'Can I get a selfie with her before we finish up?'"
+    },
+    {
+        "prompt": "Anachronism: ",
+        "completion": "Cleopatra takes a selfie with her smartphone and says, 'Let\u2019s send this to Marc Antony, \\#QueenOfTheNile.'"
+    },
+    {
+        "prompt": "Anachronism: ",
+        "completion": "Napoleon Bonaparte stood on the battlefield and said, 'I should\u2019ve just played Risk on my Xbox instead of invading Russia.'"
+    },
+    {
+        "prompt": "Anachronism: ",
+        "completion": "Marie Antoinette, at a bakery, asks, 'Do you guys have any gluten-free, vegan cake? Because, you know, let them eat that!'"
+    },
+    {
+        "prompt": "Anachronism: ",
+        "completion": "Albert Einstein sits down in front of his MacBook and says, 'Let me figure out this theory of relativity\u2026 right after I finish updating my Instagram.'"
+    },
+    {
+        "prompt": "Cynical Humor: ",
+        "completion": "They say money can\u2019t buy happiness, but it sure makes misery more comfortable."
+    },
+    {
+        "prompt": "Cynical Humor: ",
+        "completion": "I finally found inner peace\u2026 it\u2019s called not caring anymore."
+    },
+    {
+        "prompt": "Cynical Humor: ",
+        "completion": "Hard work never killed anyone, but why take the risk?"
+    },
+    {
+        "prompt": "Cynical Humor: ",
+        "completion": "The light at the end of the tunnel? Probably just another oncoming train."
+    },
+    {
+        "prompt": "Cynical Humor: ",
+        "completion": "I used to have goals, but now I just hope to get through the day without losing Wi-Fi."
+    },
+    {
+        "prompt": "Cynical Humor: ",
+        "completion": "You miss 100% of the shots you don\u2019t take\u2026 and most of the ones you do, but hey, why not disappoint yourself both ways?"
+    },
+    {
+        "prompt": "Cynical Humor: ",
+        "completion": "They say the truth will set you free, but that\u2019s usually after it destroys your life first."
+    },
+    {
+        "prompt": "Cynical Humor: ",
+        "completion": "Optimism is just the fancy word people use when they haven\u2019t been disappointed enough yet."
+    },
+    {
+        "prompt": "Cynical Humor: ",
+        "completion": "Every cloud has a silver lining, but that\u2019s probably just the toxic chemicals from pollution."
+    },
+    {
+        "prompt": "Cynical Humor: ",
+        "completion": "The grass is always greener on the other side because it\u2019s probably artificial turf."
+    },
+    {
+        "prompt": "Paraprosdokian: ",
+        "completion": "I asked my dog if he wanted to go for a walk, but he said he was too tired. Then I remembered dogs don\u2019t talk."
+    },
+    {
+        "prompt": "Paraprosdokian: ",
+        "completion": "I wanted to lose weight, so I bought a treadmill. Now I just hang clothes on it."
+    },
+    {
+        "prompt": "Paraprosdokian: ",
+        "completion": "My boss told me to start thinking outside the box, so I quit my job."
+    },
+    {
+        "prompt": "Paraprosdokian: ",
+        "completion": "I can resist anything except temptation and, apparently, cheesecake."
+    },
+    {
+        "prompt": "Paraprosdokian: ",
+        "completion": "I thought I wanted a career. Turns out, I just wanted a steady income."
+    },
+    {
+        "prompt": "Paraprosdokian: ",
+        "completion": "I used to play piano by ear, but then I learned to use my hands like everyone else."
+    },
+    {
+        "prompt": "Paraprosdokian: ",
+        "completion": "My memory is so good that I can remember every time I\u2019ve forgotten something important."
+    },
+    {
+        "prompt": "Paraprosdokian: ",
+        "completion": "I\u2019m reading a book on anti-gravity. It\u2019s impossible to put down\u2014literally, it floats away."
+    },
+    {
+        "prompt": "Paraprosdokian: ",
+        "completion": "They say practice makes perfect. So, I\u2019m perfect at procrastination."
+    },
+    {
+        "prompt": "Paraprosdokian: ",
+        "completion": "I always give 100% at work\u201410% on Monday, 20% on Tuesday, and so on."
+    },
+    {
+        "prompt": "Groaners: ",
+        "completion": "I tried to catch some fog this morning. Missed it by a mile\u2014turns out, it evaporates faster than my motivation."
+    },
+    {
+        "prompt": "Groaners: ",
+        "completion": "Why did the paper towel go to therapy? It had too many issues to absorb."
+    },
+    {
+        "prompt": "Groaners: ",
+        "completion": "I asked my calendar why it was so organized. It said, 'Because I always date my entries.'"
+    },
+    {
+        "prompt": "Groaners: ",
+        "completion": "What do you call a lazy kangaroo? A pouch potato."
+    },
+    {
+        "prompt": "Groaners: ",
+        "completion": "I told my shoes they were untied. They didn\u2019t respond\u2014guess they\u2019re tongue-tied."
+    },
+    {
+        "prompt": "Groaners: ",
+        "completion": "Why did the cookie go to the doctor? It was feeling a little crumby."
+    },
+    {
+        "prompt": "Groaners: ",
+        "completion": "I tried to open a bakery, but I kept losing dough. Turns out, money can\u2019t buy batter days."
+    },
+    {
+        "prompt": "Groaners: ",
+        "completion": "I got a job at a mirror factory. It\u2019s the only place where I can truly reflect on my life."
+    },
+    {
+        "prompt": "Groaners: ",
+        "completion": "Why do bees have sticky hair? They use honeycombs, obviously."
+    },
+    {
+        "prompt": "Groaners: ",
+        "completion": "I bought a boat because I needed an oar-some way to float through life.."
+    },
+    {
+        "prompt": "Observational Comedy: ",
+        "completion": "Isn\u2019t it weird how we all have that one drawer in the kitchen full of random things? It\u2019s like the junk drawer is where paper clips, batteries, and forgotten keys go to retire."
+    },
+    {
+        "prompt": "Observational Comedy: ",
+        "completion": "You ever notice how people always say, 'I need coffee to wake up,' but they somehow managed to get dressed, drive to Starbucks, and order\u2014all while \u2018asleep\u2019? That\u2019s either talent or autopilot at its finest."
+    },
+    {
+        "prompt": "Observational Comedy: ",
+        "completion": "Why is it that the moment you\u2019re comfortable in bed, you suddenly remember something you forgot to do? It\u2019s like my brain waits for me to be cozy to remind me I left the oven on."
+    },
+    {
+        "prompt": "Observational Comedy: ",
+        "completion": "I love when people say, \u2018I\u2019m just going to pop into the store real quick.\u2019 Ten minutes later, they\u2019re coming out with a cart full of stuff they didn\u2019t even know they needed\u2014because who can resist a sale on 50 rolls of paper towels?"
+    },
+    {
+        "prompt": "Observational Comedy: ",
+        "completion": "Have you ever noticed how a \u2018quick\u2019 shower only lasts 20 minutes if you\u2019re running late? But when you have all the time in the world, that shower turns into a full-blown concert and life reflection session."
+    },
+    {
+        "prompt": "Observational Comedy: ",
+        "completion": "Why is it that the one day you forget to charge your phone, that\u2019s when everyone suddenly needs to reach you? My phone\u2019s on 5%, and suddenly I\u2019m more popular than a free donut stand."
+    },
+    {
+        "prompt": "Observational Comedy: ",
+        "completion": "Have you ever watched people trying to parallel park? It\u2019s like watching someone play Tetris with a car\u2014except, in this game, you only have one piece, and it\u2019s impossible to fit it into the space."
+    },
+    {
+        "prompt": "Observational Comedy: ",
+        "completion": "Why do we always get nervous when our phone rings? It\u2019s literally designed for calls, yet every time it rings, it\u2019s like we\u2019ve forgotten how to interact with another human being."
+    },
+    {
+        "prompt": "Observational Comedy: ",
+        "completion": "You ever walk into a room and completely forget why you went in? It\u2019s like the doorway is a magic portal that erases all memory of the important thing you were about to do."
+    },
+    {
+        "prompt": "Observational Comedy: ",
+        "completion": "Why do we spend so much time picking out the perfect outfit just to sit at home and binge-watch TV? My couch has no opinion on my fashion choices, but here I am, dressed like I\u2019m expecting company."
+    },
+    {
+        "prompt": "Play on Idioms: ",
+        "completion": "I wanted to kill two birds with one stone, but PETA wasn\u2019t too thrilled with that idea."
+    },
+    {
+        "prompt": "Play on Idioms: ",
+        "completion": "I told my boss I was burning the midnight oil, but he said, \u2018We use LED lights now\u2014get with the times.\u2019"
+    },
+    {
+        "prompt": "Play on Idioms: ",
+        "completion": "I decided to let sleeping dogs lie, but now they\u2019ve taken over the entire bed and I\u2019m stuck on the couch."
+    },
+    {
+        "prompt": "Play on Idioms: ",
+        "completion": "They say actions speak louder than words, but when I tried miming my grocery list, nobody understood a thing."
+    },
+    {
+        "prompt": "Play on Idioms: ",
+        "completion": "I\u2019ve got bigger fish to fry, but I just realized I don\u2019t even own a frying pan."
+    },
+    {
+        "prompt": "Play on Idioms: ",
+        "completion": "I tried to break the ice at the party, but apparently, using a sledgehammer isn\u2019t what they meant."
+    },
+    {
+        "prompt": "Play on Idioms: ",
+        "completion": "They told me to bite the bullet, but all I got was a chipped tooth and a stern warning from my dentist."
+    },
+    {
+        "prompt": "Play on Idioms: ",
+        "completion": "I heard the early bird gets the worm, so I showed up at dawn\u2014only to find out I\u2019m allergic to worms."
+    },
+    {
+        "prompt": "Play on Idioms: ",
+        "completion": "I wanted to take the bull by the horns, but then I remembered I\u2019m a terrible rodeo clown."
+    },
+    {
+        "prompt": "Play on Idioms: ",
+        "completion": "They said curiosity killed the cat, so I played it safe and let the cat Google things for me."
+    },
+    {
+        "prompt": "Narrative Jokes: ",
+        "completion": "So, I went to the gym for the first time in months. I walked in feeling confident, grabbed a set of weights, and instantly dropped them on my foot. I guess that\u2019s what they mean by a \u2018hard start.\u2019"
+    },
+    {
+        "prompt": "Narrative Jokes: ",
+        "completion": "The other day, I asked my neighbor for help moving some furniture. He showed up with a tape measure and spent 30 minutes analyzing the best route. By the time we were ready to move it, I had already pushed it across the room myself. So much for \u2018teamwork.\u2019"
+    },
+    {
+        "prompt": "Narrative Jokes: ",
+        "completion": "I went to a restaurant and asked for something light, so the waiter brought me a salad. I stared at it and said, \u2018No, I meant something like a cheeseburger, but with less guilt.\u2019 He just blinked and brought me a glass of water."
+    },
+    {
+        "prompt": "Narrative Jokes: ",
+        "completion": "I was babysitting my niece, and she asked me to help with her homework. It was math, so I thought, \u2018How hard could it be?\u2019 Ten minutes in, I realized I had no idea what I was doing, and she ended up teaching me. So, technically, I got an education for free."
+    },
+    {
+        "prompt": "Narrative Jokes: ",
+        "completion": "I tried taking a yoga class. The instructor said, \u2018Breathe in peace, breathe out tension.\u2019 But after 10 minutes of trying to touch my toes, I was mostly breathing out regret."
+    },
+    {
+        "prompt": "Narrative Jokes: ",
+        "completion": "I went camping with some friends, and we set up this huge tent. It looked great until it started raining. Turns out, none of us knew how to properly stake it down. So, we spent the night chasing our tent around the campsite like it was some wild animal."
+    },
+    {
+        "prompt": "Narrative Jokes: ",
+        "completion": "My car broke down in the middle of nowhere, so I called roadside assistance. The guy on the phone said, \u2018Can you describe your location?\u2019 I said, \u2018Yeah, it\u2019s somewhere between \u2018Why did I take this road?\u2019 and \u2018I\u2019m never going on a road trip again.\u2019"
+    },
+    {
+        "prompt": "Narrative Jokes: ",
+        "completion": "I decided to cook dinner for my in-laws to impress them. Halfway through, the smoke alarm went off, and the dog started barking. Let\u2019s just say, we ended up ordering pizza, and they\u2019re probably more impressed with my phone\u2019s delivery app."
+    },
+    {
+        "prompt": "Narrative Jokes: ",
+        "completion": "I went to the airport three hours early because I\u2019m one of those overly cautious people. Of course, my flight was delayed by four hours, so I spent the entire day there\u2014just me and my overpriced coffee\u2014bonding over my terrible time management skills."
+    },
+    {
+        "prompt": "Narrative Jokes: ",
+        "completion": "I signed up for a dance class to improve my coordination. During the first lesson, I tripped over my own feet and took half the class down with me. At least now I\u2019m known as the dancer who \u2018really knows how to make an entrance.\u2019"
+    },
+    {
+        "prompt": "Reductio ad Absurdum: ",
+        "completion": "My friend said I should drink more water for better health. So, I drank a gallon every hour, and now my biggest health concern is finding a bathroom every 10 minutes."
+    },
+    {
+        "prompt": "Reductio ad Absurdum: ",
+        "completion": "They told me to reduce screen time to improve my sleep. So, I threw out all my devices and now live in the woods. I don\u2019t sleep any better, but at least the squirrels aren\u2019t sending me work emails."
+    },
+    {
+        "prompt": "Reductio ad Absurdum: ",
+        "completion": "I heard eating vegetables is great for your skin. So, I blended 20 pounds of kale and carrots into a smoothie. Now my skin\u2019s glowing\u2026 because I turned bright orange."
+    },
+    {
+        "prompt": "Reductio ad Absurdum: ",
+        "completion": "My teacher told me that practice makes perfect. So, I practiced playing guitar for 48 hours straight. Now I\u2019m perfect\u2026 at being sleep-deprived and hallucinating song lyrics."
+    },
+    {
+        "prompt": "Reductio ad Absurdum: ",
+        "completion": "They said laughter is the best medicine, so I stopped taking all my actual medicine and now just laugh maniacally. The doctors aren\u2019t impressed, but at least I\u2019m committed to the bit."
+    },
+    {
+        "prompt": "Reductio ad Absurdum: ",
+        "completion": "I was told that walking 10,000 steps a day is good for my heart. So, I walked 100,000 steps in one day, and now my legs have filed a restraining order against me."
+    },
+    {
+        "prompt": "Reductio ad Absurdum: ",
+        "completion": "People say you should dress for the job you want. So, I showed up to work in a superhero costume. Turns out, they weren\u2019t looking for a crime-fighting accountant."
+    },
+    {
+        "prompt": "Reductio ad Absurdum: ",
+        "completion": "They told me that sunscreen prevents aging, so I covered myself in SPF 1000 and haven\u2019t left the shade in weeks. Now I\u2019m not aging\u2014I\u2019m just becoming a mole person."
+    },
+    {
+        "prompt": "Reductio ad Absurdum: ",
+        "completion": "My financial advisor said I should save more for the future. So, I stopped buying food and started hoarding pennies. Now I have a solid retirement fund but no teeth left from malnutrition."
+    },
+    {
+        "prompt": "Reductio ad Absurdum: ",
+        "completion": "I read that multitasking is good for productivity. So, I\u2019m currently brushing my teeth, answering emails, cooking dinner, and learning French. None of it is going well, but at least I\u2019m impressively chaotic."
+    }
+]

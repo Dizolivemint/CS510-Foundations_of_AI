@@ -1,0 +1,45 @@
+category,precision,recall,f1-score,support
+Absurd Humor,0.00,0.00,0.00,4
+Anachronism,1.00,1.00,1.00,3
+Anecdotal Humor,0.50,0.40,0.44,5
+Anti-Joke,0.25,0.50,0.33,2
+Blue Humor,0.17,1.00,0.29,1
+Blunder Humor,0.20,0.33,0.25,3
+Character Comedy,0.33,0.50,0.40,2
+Cynical Humor,0.33,0.50,0.40,2
+Dark Humor (Black Comedy),0.00,0.00,0.00,3
+Deadpan,0.14,0.33,0.20,3
+Double Entendre,0.00,0.00,0.00,3
+Groaners,0.00,0.00,0.00,4
+Hyperbole,0.29,1.00,0.44,2
+Impressions/Imitative Humor,1.00,0.50,0.67,2
+Innuendo,1.00,0.67,0.80,3
+Irony,0.33,0.33,0.33,3
+Juvenile/Toilet Humor,0.33,0.50,0.40,2
+Meta Humor,0.50,0.33,0.40,3
+Mockumentary Style,0.20,1.00,0.33,1
+Narrative Jokes,0.50,1.00,0.67,3
+Non-Sequitur,0.00,0.00,0.00,1
+Observational Comedy,0.33,0.33,0.33,3
+Observational Humor,0.33,0.33,0.33,3
+Paraprosdokian,0.00,0.00,0.00,4
+Parody,0.00,0.00,0.00,3
+Play on Idioms,0.00,0.00,0.00,2
+Political Humor,0.25,1.00,0.40,1
+Punishment Humor,0.00,0.00,0.00,2
+Puns,0.00,0.00,0.00,4
+Reductio ad Absurdum,0.33,0.25,0.29,4
+Sarcasm,0.50,0.20,0.29,5
+Sarcastic Hyperbole,0.20,0.25,0.22,4
+Sardonic Humor,1.00,0.50,0.67,2
+Satire,1.00,0.20,0.33,5
+Satirical Commentary,0.67,0.67,0.67,3
+Self-Deprecating Humor,0.00,0.00,0.00,8
+Shock Humor,1.00,0.60,0.75,5
+Situational Comedy (Sitcom Humor),0.50,0.25,0.33,4
+Slapstick,1.00,1.00,1.00,2
+Surreal Humor,0.00,0.00,0.00,4
+Topical Humor,0.25,1.00,0.40,1
+accuracy,,0.32 124
+macro avg,0.35,0.40,0.33,124
+weighted avg,0.36,0.32,0.30,124

@@ -3,6 +3,8 @@ import torch
 from torch import nn, optim
 from torch.utils.data import DataLoader, TensorDataset, random_split
 from sklearn.metrics import classification_report, accuracy_score
+import pandas as pd
+import joblib
 
 # Check for GPU availability
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -21,8 +23,9 @@ class JokeClassifierNN(nn.Module):
 if __name__ == "__main__":
     # Load embeddings and labels
     X = np.load('data/processed/joke_embeddings.npy')
-    y = pd.read_csv('data/processed/labels.csv')['Humor Type'].factorize()[0]
-    
+    label_df = pd.read_csv('data/processed/labels.csv')
+    y, category_names = label_df['Humor Type'].factorize()
+
     # Convert to tensors and create DataLoader
     X_tensor = torch.tensor(X, dtype=torch.float32).to(device)
     y_tensor = torch.tensor(y, dtype=torch.long).to(device)
@@ -37,7 +40,7 @@ if __name__ == "__main__":
     
     # Initialize the neural network
     input_size = X_tensor.shape[1]
-    num_classes = len(np.unique(y))
+    num_classes = len(np.unique(y))  # Dynamically calculate number of classes
     model = JokeClassifierNN(input_size, num_classes).to(device)
     
     # Loss and optimizer
@@ -68,10 +71,18 @@ if __name__ == "__main__":
             _, predicted = torch.max(outputs.data, 1)
             y_true.extend(labels.cpu().numpy())
             y_pred.extend(predicted.cpu().numpy())
-    
+
+    # Map indices back to humor categories
+    y_true_categories = [category_names[i] for i in y_true]
+    y_pred_categories = [category_names[i] for i in y_pred]
+
     print(f"Accuracy: {accuracy_score(y_true, y_pred) * 100:.2f}%")
-    print("\nClassification Report:\n", classification_report(y_true, y_pred))
+    print("\nClassification Report:\n", classification_report(y_true_categories, y_pred_categories, target_names=category_names))
     
     # Save the trained model
     torch.save(model.state_dict(), 'data/models/joke_classifier_nn.pth')
-    print("Neural network model training completed and saved.")
+    
+    # Save the category names for inference
+    joblib.dump(category_names, 'data/models/humor_classes.pkl')
+    
+    print("Neural network model training and class saving completed.")

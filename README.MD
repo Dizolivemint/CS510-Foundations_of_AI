@@ -1,4 +1,6 @@
+# CS510 - Foundations of AI
 
+## AI Humor - Porfolio Project
 
 ### **1. Ensure CUDA-Enabled PyTorch Installation**
 
@@ -26,23 +28,61 @@ To ensure that the GPU is being utilized:
 nvidia-smi
 ```
 
-
 ```bash
 # Ensure GPU is available
 python -c "import torch; print(torch.cuda.is_available())"
 
 # Step 1: Data Augmentation
-python scripts/data_augmentation.py
+# NLTK performing Synonym Replacement
+python scripts/data_augmentation_nltk.py
+
+# Large Language Model
+# Mistral
+python scripts/data_augmentation_mistral.py
+# GPT2
+python scripts/data_augmentation_gpt2.py
+# Falcon
+python scripts/data_augmentation_falcon.py
 
 # Step 2: Feature Extraction (with GPU)
 python scripts/feature_extraction.py
 
 # Step 3: Model Training (with GPU if using a neural network)
-python scripts/train_model.py
+# Random Forest
+python scripts/train_random_forest.py
+# Neural Network
+python scripts/train_neural_network.py
 
 # Step 4: Classify a Joke
-python scripts/classify_joke.py "Why don't skeletons fight each other? They don't have the guts!"
+# Random Forest
+python scripts/classify_random_forest.py "Why don't skeletons fight each other? They don't have the guts!"
+# Neural Network
+python scripts/classify_neural_network.py "Why don't skeletons fight each other? They don't have the guts!"
+
 ```
 
-### **3. Download Spacy Package**
+### **3. Download Spacy Model**
+
 ```python -m spacy download en_core_web_sm```
+
+### **4. Sign Up or Log In to Hugging Face**
+
+- Make sure you are logged in to Hugging Face and that you have accepted the conditions of the gated model's license. You can do that by visiting the model’s page: [Mistral 7B Model](https://huggingface.co/mistralai/Mistral-7B-v0.1).
+
+### 5. **Set Up Authentication with Hugging Face Hub**
+
+- You’ll need to authenticate your Hugging Face account through your environment to access gated models.
+
+- First, get your Hugging Face API token:
+     1. Go to [Hugging Face account tokens](https://huggingface.co/settings/tokens).
+     2. Copy your personal access token.
+
+To create an `.env` file for storing sensitive information (like API tokens) and ensure it is not included in your version control system, follow these steps:
+
+### 6. **Create the `.env` File**
+
+In your project directory, create a new file named `.env`. This file will store environment variables in key-value format.
+
+Paste your Hugging Face Token
+
+```HUGGINGFACE_TOKEN=your_huggingface_token_here```
